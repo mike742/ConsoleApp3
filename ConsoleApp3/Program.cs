@@ -7,6 +7,8 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Have a nice day!");
+
         }
     }
 }
